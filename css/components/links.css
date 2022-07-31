@@ -1,0 +1,18 @@
+.links {
+  display: block;
+}
+
+.links i {
+  color:#1EDD88;
+  font-size: 30px;
+}
+
+.links p {
+  color: grey;
+  font-size:16px;
+}
+
+.links p > i {
+  font-size: 16px;
+  color:red
+}

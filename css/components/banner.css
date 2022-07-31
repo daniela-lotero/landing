@@ -1,0 +1,21 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0;
+  color: black;
+}
+
+.banner h1 {
+  color: #FFFFFF;
+  font-size: 32px;
+  font-family: Poppins;
+  font-weight: bold;
+}
+
+.banner p {
+  color: #FFFFFF;
+  font-size: 20px;
+  opacity: 0.7;
+  margin-bottom: 30px;
+}
